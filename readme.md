@@ -26,7 +26,7 @@ Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que 
 
 ### Screenshot
 
-![](./src/images/animacao.gifges/)
+![](./src/images/animacao.gif/)
 
 
 ### Links
